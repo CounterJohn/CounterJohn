@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @CounterJohn
-- 👀 I’m interested in To be a Youtuber!
+- 👋 Hi, I’m @Xglov_0
 - 🌱 I’m currently learning Python and C# !
-- 💞️ I’m looking to collaborate on Nothing!
 - 📫 How to reach me idk
 - 😄 Pronouns: No im not LGBTQ im men🗿!
-- ⚡ Fun fact: I like play Minecraft!
 - 🗿 What do I do? What does he do?: I creating a GDI effects!
+- so yea thats end 
 
 - Welcome!
 
